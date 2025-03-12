@@ -1,0 +1,4 @@
+Issue ID,Severity,Description,Help URL
+color-contrast,serious,Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds,https://dequeuniversity.com/rules/axe/4.4/color-contrast?application=axeAPI
+page-has-heading-one,moderate,"Ensure that the page, or at least one of its frames contains a level-one heading",https://dequeuniversity.com/rules/axe/4.4/page-has-heading-one?application=axeAPI
+region,moderate,Ensures all page content is contained by landmarks,https://dequeuniversity.com/rules/axe/4.4/region?application=axeAPI
