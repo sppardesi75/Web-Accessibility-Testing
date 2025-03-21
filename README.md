@@ -7,7 +7,7 @@ This project is an automated accessibility testing suite built using Selenium an
 - JSON report generation with issue severity and recommendations
 - Selenium WebDriver automation for web testing
 ## Installation
-1. Install dependencies: '''pip install selenium'''
+1. Install dependencies: ('''pip install selenium''')
 2. Run thetest: '''python accessibility_test.py'''
 ## Output
 The script generates an \ccessibility_report.json\ file containing details about detected accessibility issues.
